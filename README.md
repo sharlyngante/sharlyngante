@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+# Software Developer
+### Education
+-Mohawk College
+-Humber College
+
+### Work Experience
+RPN
+
+## Projects
+personal
+
 <!--
 **sharlyngante/sharlyngante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
